@@ -6,7 +6,7 @@ Make every keystroke feel better. Keybit brings mechanical keyboard sounds to yo
 
 ## Download
 
-[Download the latest Keybit DMG](https://github.com/jswladitya/Keybit-releases/releases/latest/download/Keybit-1.0.5.dmg) · [All releases](https://github.com/jswladitya/Keybit-releases/releases)
+[Latest release](https://github.com/jswladitya/Keybit-releases/releases/latest) · [All releases](https://github.com/jswladitya/Keybit-releases/releases)
 
 Requires **macOS 14 or later**. Supports **Apple Silicon and Intel Macs**. A valid license key is required.
 
